@@ -21,7 +21,7 @@ int main()
         }
     }
     avg=total/6;
-    printf("Total units consumed: %d \n Average consumption: %.2f \n");
+    printf("Total units consumed: %d \n Average consumption: %.2f \n",total,avg);
     printf("Number of houses consuming more than 300 units: %d",c);
 
     return 0;

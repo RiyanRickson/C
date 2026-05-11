@@ -1,6 +1,6 @@
 // Riyan Rickson Castelino 
 // Pes2ug25am339 
-// week 5 program 5
+// week 5 program 5 
 #include <stdio.h>
 
 int main()
